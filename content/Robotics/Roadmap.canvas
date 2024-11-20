@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0c2f00854b8a2fdc","type":"text","text":"Linear Algebra","x":-920,"y":-40,"width":250,"height":50},
+		{"id":"be835564f3b8d860","type":"text","text":"## Subjects\n### Mathematics\nFor modelling dynamic systems in mechatronics:\n[[Linear Algebra]]\nCalculus\nDifferential equations\nlinear algebra\nnumerical methods\nControl Theory\n\nDesign and prototyping:\nCAD Software: AutoCAD, Fusion 360, Solidworks\nRapid prototyping : 3D printing\nManufacturing processes\n\nSoft skills:\nProject Management:\n\nElectronic Science\nMechanics Science:\nEngineering Maths\nEngineering Science\nCosting\nBusiness Sience\nQuantitive Methods\nPCAD, involving acid baths\nAnalog Circuit Design\n\nComputer Vision\nStatistics\nPlanning\n\nUniversities\nGeorgia Tech\nUniversity of Texas\nCMU\nMIT\n\n\nAnalog circuit design\nClassifical and modern control theory\n3d cad design\nstatics and dynamics\nembededed chip programming\n\nMechanical engineering: mechanics, materials, dynamics, kinematics, thermodynamics, fluid mechanics\nElectrical engineering - circuits, electronics, electromagnetism, pwoer systems, control systems\nComputer Sceinece : C/C++, python, matlab\nControl systems: control theory, feedback systems, pid controllers, system dynamics\nRobotics: robotics principles, robot kinematics, dynamics, motion planning, sensor integration\nSensor and actuators: proximity sensors, accelorometers, encoders, actuators, motors, servos, pneumatic/hydraulic actuators\nEmbededed systems: microcontorllers, embedded programming, real-time operating systems, hardware components\nMathematics - calculus, differential equations, linear algebra, numerical methods\nDesign and prototypgin: design principles, cad software, rapid prototyping \n","x":-300,"y":-520,"width":250,"height":350},
+		{"id":"e5acd82226b0d57e","type":"text","text":"Subjects","x":-670,"y":-170,"width":250,"height":60},
+		{"id":"77f39e68f0a55041","type":"text","text":"Circuit Analysis","x":-420,"y":-40,"width":250,"height":50},
+		{"id":"77162fd42df1188f","type":"text","text":"Digital Systems","x":-670,"y":40,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"2a644d74494e0110","fromNode":"e5acd82226b0d57e","fromSide":"bottom","toNode":"0c2f00854b8a2fdc","toSide":"top"},
+		{"id":"65f7e6b4b5ae2e0c","fromNode":"e5acd82226b0d57e","fromSide":"bottom","toNode":"77162fd42df1188f","toSide":"top"},
+		{"id":"a44c105af765fe89","fromNode":"e5acd82226b0d57e","fromSide":"bottom","toNode":"77f39e68f0a55041","toSide":"top"}
+	]
+}

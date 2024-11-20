@@ -1,6 +1,13 @@
 ---
 title: Welcome to Quartz
 ---
+This is my personal wiki for the following areas: 
+- [[Computer Science]]
+- [[Robotics]]
+- [[Engineering]]
+- [[Deen]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Todos
+- [ ] Finalize notes in Datamining
+- [ ] Attach Mochi flaschards
+- [ ] Add links to Drive

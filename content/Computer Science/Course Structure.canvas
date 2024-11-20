@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"31b522ccc0dcf645","type":"text","text":"Data Mining","x":-310,"y":0,"width":250,"height":60},
+		{"id":"33535176a4252814","type":"text","text":"Data Vizualization","x":-20,"y":0,"width":250,"height":60},
+		{"id":"6f5f4ec1bba16382","type":"text","text":"Operating Systems","x":-600,"y":0,"width":250,"height":60},
+		{"id":"d03b8ad412836c49","type":"text","text":"Course","x":-185,"y":-140,"width":250,"height":60},
+		{"id":"83233ffc40bab431","type":"text","text":"Machine Learning","x":260,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1cf6d9cf668574d2","fromNode":"d03b8ad412836c49","fromSide":"bottom","toNode":"6f5f4ec1bba16382","toSide":"top"},
+		{"id":"f6f86ee66a0c32df","fromNode":"d03b8ad412836c49","fromSide":"bottom","toNode":"31b522ccc0dcf645","toSide":"top"},
+		{"id":"63a9ab7448ae9922","fromNode":"d03b8ad412836c49","fromSide":"bottom","toNode":"33535176a4252814","toSide":"top"},
+		{"id":"dbf7c0d68ef37bdd","fromNode":"d03b8ad412836c49","fromSide":"bottom","toNode":"83233ffc40bab431","toSide":"top"}
+	]
+}
