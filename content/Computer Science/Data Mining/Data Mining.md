@@ -1,11 +1,15 @@
 Books:
 - [Data Mining: Concepts and Techniques by Jiawei Han](https://mmuedumy-my.sharepoint.com/:b:/r/personal/1221304179_student_mmu_edu_my/Documents/University/year_2/semester_3/Data%20Mining/Books/Data%20Mining%20-%20Concepts%20and%20Techniques%20%5B3rd%20ed.%5D%20-%20Jiawei%20Han,%20Micheline%20Kamber,%20Jian%20Pei.pdf?csf=1&web=1&e=5Wdia6)
 
-
-| Component  | Score   | Total |
-| ---------- | ------- | ----- |
-| Assignment | = 1 + 2 |       |
-|            |         |       |
+| Test | Test |
+| ---- | ---- |
+|      |      |
+ 
+| Component  | Score   | Total |     |
+| ---------- | ------- | ----- | --- |
+| Assignment | = 1 + 2 |       |     |
+|            |         |       |     |
+|            |         |       |     |
 
 Data mining, or Knowledge Discovery in Databases (KDD)
 Extraction of patterns, that is either:
